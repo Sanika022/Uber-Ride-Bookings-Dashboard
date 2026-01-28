@@ -1,3 +1,5 @@
+**Uber Ride Bookings Dashboard**
+
 This project focuses on building an interactive Power BI dashboard using an Uber NCR ride bookings dataset. 
 The dashboard provides insights into booking trends, revenue performance, ride completion status, customer behavior, and service quality. 
 The end goal is to transform raw ride-level data into meaningful visual analytics that support data-driven decision-making.
@@ -20,11 +22,17 @@ Power Query Editor – Data cleaning and transformation
 Dashboard Visualizations:
 1. KPI Cards- Total Bookings, Completed Rides, Cancelled Rides, Total Revenue, Completion Rate, Average Ride Distance
 2. Graphs:
+
 i) Ratings by Vehicle Type (Clustered Column Chart)- Compares average driver and customer ratings across vehicle types.
+
 ii) Revenue by Vehicle Type (Clustered Column Chart)- Highlights the highest revenue-generating vehicle categories.
+
 iii) Payment Method Distribution (Pie Chart)- Shows customer payment preferences (UPI, Cash, Card, etc.).
-iv) Total Bookings by Booking Status (Donut Chart)- Shows the split of completed, cancelled, and other booking statuses
+
+iv) Total Bookings by Booking Status (Donut Chart)- Shows the split of completed, cancelled, and other booking statuses.
+
 v) Bookings Trend by Months (Line Chart)- Displays monthly booking volume over time.
+
 vi) Top 10 Pickup Locations (Clustered Bar Chart)- Identifies demand hotspots based on booking count.
 
 Insights:
